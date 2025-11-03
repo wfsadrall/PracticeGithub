@@ -1,0 +1,1 @@
+Create an AI to play Connect Four against humans, we can use various approaches, but a common and effective one is Minimax with Alpha-Beta Pruning. This method is based on game theory and simulates all possible moves and counter-moves to determine the best action
